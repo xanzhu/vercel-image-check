@@ -1,7 +1,5 @@
 {
-  "domains": [
-    "vercel.com"
-  ],
+  "domains": [],
   "sizes": [
     320,
     640,
